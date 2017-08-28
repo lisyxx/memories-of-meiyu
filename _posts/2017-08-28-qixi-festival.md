@@ -5,7 +5,7 @@ excerpt: "小梅和松宇七夕节快乐！"
 categories: [节日]
 comments: true
 image:
-      feature: "{{ site.url }}/assets/2017-08-28-qixi-festival/01.jpg"
+      feature: https://raw.githubusercontent.com/mouslee/memories-of-meiyu/gh-pages/assets/2017-08-28-qixi-festival/01.jpg
 ---
 
 ## 小梅和松宇七夕节快乐！
