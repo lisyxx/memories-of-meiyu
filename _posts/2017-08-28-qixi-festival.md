@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2017年七夕
+title: Qixi Festival
 excerpt: "小梅和松宇七夕节快乐！"
-categories: [节日]
+categories: [Festival]
 comments: true
 image:
   feature: {{ site.url }}/assets/2017-08-28-qixi-festival/01.jpg
