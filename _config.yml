@@ -4,7 +4,7 @@
 ####################################
 #
 title: 梅子煮雨的记忆
-email: mouslee@live.cn
+email:
 description: This blog preserves our wonderful memories.
 url: https://mouslee.github.io/memories-of-meiyu # the base hostname & protocol for your site
 keywords: ["memory"]
@@ -37,7 +37,7 @@ owner:
   avatar: leonids-logo.png
   job: "准自由"
   bio: "多读书，多看报，少吃零食，多睡觉"
-  email: mouslee@live.cn
+  email:
   disqus-shortname: #username
   twitter: #username
   facebook: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: mouslee #username
+  github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
