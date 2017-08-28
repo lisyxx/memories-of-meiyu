@@ -4,11 +4,9 @@ title: Qixi Festival
 excerpt: "Happy Qixi Festival !"
 categories: [Festival]
 comments: true
-image:
-  feature: {{ site.url }}/assets/2017-08-28-qixi-festival/01.jpg
 ---
 
-## 小梅和松宇七夕节快乐！
+## Happy Qixi Festival !
 
 <video id="video" controls="" preload="none" poster="{{ site.url }}/assets/2017-08-28-qixi-festival/01.jpg">
       <source id="mp4" src="{{ site.url }}/assets/2017-08-28-qixi-festival/the-memory-of-meiyu.mp4" type="video/mp4">
