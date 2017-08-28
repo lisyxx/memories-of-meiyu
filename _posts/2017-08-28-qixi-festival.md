@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Qixi Festival
-excerpt: "Happy Qixi Festival !"
-categories: [Festival]
+title: 2017七夕节
+excerpt: "小梅和松宇七夕节快乐！"
+categories: [节日]
 comments: true
 ---
 
-## Happy Qixi Festival !
+## 小梅和松宇七夕节快乐！
 
 <video id="video" controls="" preload="none" poster="{{ site.url }}/assets/2017-08-28-qixi-festival/01.jpg">
       <source id="mp4" src="{{ site.url }}/assets/2017-08-28-qixi-festival/the-memory-of-meiyu.mp4" type="video/mp4">
